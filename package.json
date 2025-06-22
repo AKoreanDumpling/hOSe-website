@@ -25,7 +25,7 @@
 		"react": "^19.1.0",
 		"react-dom": "^19.1.0",
 		"react-remarkify": "^0.3.0",
-		"react-text-to-speech": "^2.0.2",
+		"react-text-to-speech": "^2.1.0",
 		"rehype-raw": "^7.0.0",
 		"rehype-sanitize": "^6.0.0",
 		"remark-gfm": "^4.0.1",
