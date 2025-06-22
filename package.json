@@ -1,6 +1,6 @@
 {
 	"name": "hose-website",
-	"version": "0.8",
+	"version": "1.0",
 	"private": "false",
 	"scripts": {
 		"docusaurus": "docusaurus",
@@ -32,7 +32,7 @@
 		"serve": "^14.2.4"
 	},
 	"devDependencies": {
-		"@docusaurus/module-type-aliases": "3.7.0",
+		"@docusaurus/module-type-aliases": "3.8.1",
 		"@docusaurus/types": "3.7.0"
 	},
 	"browserslist": {
